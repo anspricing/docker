@@ -13,3 +13,4 @@ scikit-learn~=1.0.1
 simple-pid~=1.0.1
 SQLAlchemy~=1.4.27
 psycopg2-binary~=2.9.3
+celery~=5.2.3
